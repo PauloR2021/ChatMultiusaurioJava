@@ -6,6 +6,10 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
 
+/**
+ * @author Paulo Ricardo Soares da Trindade
+ */
+
 public class Cliente {
 
     private Socket socket;
