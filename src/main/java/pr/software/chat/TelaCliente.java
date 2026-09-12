@@ -4,6 +4,10 @@ import javax.swing.*;
 import java.awt.*;
 import java.io.IOException;
 
+/**
+ * @author Paulo Ricardo Soares da Trindade
+ */
+
 public class TelaCliente extends JFrame {
     private JTextArea areaMensagem;
     private JTextField campoNome;
