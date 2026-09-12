@@ -1,12 +1,17 @@
 package pr.software.chat;
-import pr.software.chat.ClienteHandler;
+
 
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author Paulo Ricardo Soares da Trindade
+ */
+
 public class Servidor {
+
 
     public static List<ClienteHandler> clientes = new ArrayList<ClienteHandler>();
 
